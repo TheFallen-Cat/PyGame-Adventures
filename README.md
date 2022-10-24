@@ -1,2 +1,2 @@
-<h1> Pygame Projects :space_invader_:</h1>
+<h1> Pygame Projects :space_invader_: </h1>
 
